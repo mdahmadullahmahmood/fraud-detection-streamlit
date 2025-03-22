@@ -50,5 +50,5 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 This project is licensed under the MIT License.
 
 ---
-<p align="center">💡 Built with ❤️ by <b>Your Name</b> | Powered by AI & Streamlit 🚀</p>
+<p align="center">💡 Built with ❤️ by <b>MD AHMADULLAH MAHMOOD</b> | Powered by AI & Streamlit 🚀</p>
 
